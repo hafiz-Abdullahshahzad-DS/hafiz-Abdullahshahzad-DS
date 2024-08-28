@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Abdullah Shahzad 👋
 
-<!--
-**hafiz-Abdullahshahzad-DS/hafiz-Abdullahshahzad-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate and dedicated Machine Learning Engineer with a strong background in Mechatronics and Control Engineering (Bachelor's) and Industrial Management (Master's). With over two years of experience in data science and data mining, I've honed my skills in building and fine-tuning Machine Learning models to solve real-world problems.
 
-Here are some ideas to get you started:
+## 💼 Professional Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Data Science & Machine Learning
+- **Experience**: 2+ years in data science and data mining projects.
+- **Expertise**: Predictive modeling, detailed data analysis, and extracting actionable insights for stakeholders.
+- **Key Projects**:
+  - Classification and regression tasks using state-of-the-art ML techniques.
+  - Developed models that drive business decisions and enhance operational efficiency.
+
+### AI/ML Engineering at Optimum Tech
+- **Current Role**: AI/ML Engineer for the past 6 months.
+- **Focus Areas**:
+  - Fine-tuning advanced language models and diffusion models.
+  - Exploring and implementing AI solutions that push the boundaries of what's possible in the field.
+  
+### Full-Stack Development & Chatbot Engineering
+- **FastAPI**: Expertise in developing full-stack data applications, from backend to frontend.
+- **LangChain**: Skilled in creating and deploying sophisticated chatbots, enhancing user interactions with AI.
+
+## 🌱 What's Next?
+I'm continuously evolving in the field of AI, with future plans to focus on AI agents, pushing the envelope on how intelligent systems can assist in various domains.
+
+## 📫 Get in Touch
+- **LinkedIn**: [Abdullah Shahzad](https://www.linkedin.com/in/abdullah-shahzad-aa1047159/)
+- **Email**: [abdullahshahzad2656@gmail.com](mailto:abdullahshahzad2656@gmail.com)
+
+Let's connect and explore opportunities to innovate and create together!
