@@ -1,6 +1,6 @@
 # Hi, I'm Abdullah Shahzad 👋
 
-Welcome to my GitHub profile! I'm a passionate and dedicated Machine Learning Engineer with a strong background in Mechatronics and Control Engineering (Bachelor's) and Industrial Management (Master's). With over two years of experience in data science and data mining, I've honed my skills in building and fine-tuning Machine Learning models to solve real-world problems.
+Welcome to my GitHub profile! I'm a passionate and dedicated Machine Learning Engineer with a strong background in **Mechatronics and Control Engineering** (Bachelor's) and **Industrial Management** (Master's). With over two years of experience in data science and data mining, I've honed my skills in building and fine-tuning Machine Learning models to solve real-world problems.
 
 ## 💼 Professional Experience
 
@@ -16,10 +16,14 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Machine Learning En
 - **Focus Areas**:
   - Fine-tuning advanced language models and diffusion models.
   - Exploring and implementing AI solutions that push the boundaries of what's possible in the field.
-  
+
 ### Full-Stack Development & Chatbot Engineering
 - **FastAPI**: Expertise in developing full-stack data applications, from backend to frontend.
 - **LangChain**: Skilled in creating and deploying sophisticated chatbots, enhancing user interactions with AI.
+
+## 🛠️ Recent Projects
+- **[Shopping Assistant](https://pulsebot.cc/)**: A cutting-edge AI assistant designed to enhance the online shopping experience, providing tailored recommendations and seamless interactions.
+- **[Mortgage, Auto Loan, and Credit Card Assistant](https://funded.ae/)**: AI-driven assistants designed to simplify complex financial decisions, helping users with mortgages, auto loans, and credit card options.
 
 ## 🌱 What's Next?
 I'm continuously evolving in the field of AI, with future plans to focus on AI agents, pushing the envelope on how intelligent systems can assist in various domains.
