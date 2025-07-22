@@ -81,7 +81,7 @@ I'm at the forefront of AI innovation, focusing on:
 - **Open Source Contributions** to the AI/ML community
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafiz-Abdullahshahzad-DS&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect!
 - 💼 **LinkedIn**: [Abdullah Shahzad](https://www.linkedin.com/in/abdullah-shahzad-aa1047159/)
